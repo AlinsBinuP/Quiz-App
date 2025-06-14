@@ -60,10 +60,10 @@ lib/
 
 ## 🛠️ Built With
 
-- [Flutter](https://flutter.dev/)
-- Dart
-- Android Studio
 
+- ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square) [Flutter](https://flutter.dev/)
+- ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square) [Dart](https://dart.dev/)
+- ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=android-studio&logoColor=white&style=flat-square) [Android Studio](https://developer.android.com/studio)
 ---
 
 ## 🙌 Contributions
@@ -83,3 +83,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Alins Binu**  
   [GitHub](https://github.com/AlinsBinuP) • [LinkedIn](https://www.linkedin.com/in/alins-binu-4351b6292/)
+
