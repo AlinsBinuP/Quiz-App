@@ -82,4 +82,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 - **Alins Binu**  
-  [GitHub](https://github.com/AlinsBinuP) • [LinkedIn](https://linkedin.com/in/your-profile)
+  [GitHub](https://github.com/AlinsBinuP) • [LinkedIn](https://www.linkedin.com/in/alins-binu-4351b6292/)
