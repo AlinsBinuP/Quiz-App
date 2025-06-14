@@ -2,7 +2,7 @@
 
 A simple and engaging Flutter-based quiz application where users answer multiple-choice questions and view results at the end.
 
-![Quiz App Screenshot](assets/Screenshot_20250614_153641.png) 
+![Quiz App Screenshot](Screenshot_20250614_153641.png) 
 
 ---
 
@@ -52,7 +52,7 @@ lib/
 
 | Start Screen |  Result Screen |
 |--------------|-----------------|---------------|
-| ![Start](assets/Screenshot_20250614_153641.png) | !![Result](assets/images/result.png) |
+| ![Start](Screenshot_20250614_153641.png) | !![Result](assets/images/result.png) |
 
 > Replace image paths with your actual assets or links to hosted screenshots.
 
