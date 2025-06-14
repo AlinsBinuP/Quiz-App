@@ -50,9 +50,9 @@ lib/
 
 ## 🖼️ Screenshots
 
-| Start Screen | Question Screen | Result Screen |
+| Start Screen |  Result Screen |
 |--------------|-----------------|---------------|
-| ![Start](assets/images/start.png) | ![Question](assets/images/question.png) | ![Result](assets/images/result.png) |
+| ![Start](assets/images/start.png) | !![Result](assets/images/result.png) |
 
 > Replace image paths with your actual assets or links to hosted screenshots.
 
