@@ -52,7 +52,7 @@ lib/
 
 | Start Screen |  Result Screen |
 |--------------|-----------------|---------------|
-| ![Start](Screenshot_20250614_153641.png) | !![Result](assets/images/result.png) |
+| ![Start](Screenshot_20250614_153641.png) | !![Result](Screenshot_20250614_153709.png) |
 
 > Replace image paths with your actual assets or links to hosted screenshots.
 
